@@ -1,4 +1,4 @@
-#Real Estate Application
+# 🏡 Real Estate Application 
 
 A Full-Stack MERN Real Estate Application that enables users to explore, buy, and manage properties with secure authentication, admin controls, and a modern responsive UI.
 
