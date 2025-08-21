@@ -1,10 +1,9 @@
 # 🏡 Real Estate Application 
 
-A Full-Stack MERN Real Estate Application that enables users to explore, buy, and manage properties with secure authentication, admin controls, and a modern responsive UI.
+- A Full-Stack MERN Real Estate Application that enables users to explore, buy, and manage properties with secure authentication, admin controls, and a modern responsive UI.
+- This project is built with the MERN stack (MongoDB, Express, React, Node.js) and deployed using Netlify (frontend) and Render (backend).
 
-This project is built with the MERN stack (MongoDB, Express, React, Node.js) and deployed using Netlify (frontend) and Render (backend).
-
-🚀 Features
+## 🚀 Features
 - User Features
 - User Authentication – Register/Login using JWT.
 - View Properties – Explore all listed properties with price, description, and images.
@@ -19,20 +18,20 @@ This project is built with the MERN stack (MongoDB, Express, React, Node.js) and
 - Admin Dashboard – Overview of users, buyers, and contact inquiries.
 - Manage Users – View and manage registered users.
 
-🛠️ Tech Stack
-Frontend (React.js)
+## 🛠️ Tech Stack
+### Frontend (React.js)
   React + Vite
   React Router DOM
   Tailwind CSS / Material UI
   Axios (API calls)
   SweetAlert2 (alerts/modals)
 
-Backend (Node.js + Express.js)
+### Backend (Node.js + Express.js)
   Express REST API
   JWT Authentication
   Multer (file/image uploads)
   Bcrypt.js (password hashing)
 
-Database (MongoDB + Mongoose)
+### Database (MongoDB + Mongoose)
   MongoDB Atlas (cloud DB)
   Mongoose ODM
