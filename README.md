@@ -2,6 +2,7 @@
 
 - A Full-Stack MERN Real Estate Application that enables users to explore, buy, and manage properties with secure authentication, admin controls, and a modern responsive UI.
 - This project is built with the MERN stack (MongoDB, Express, React, Node.js) and deployed using Netlify (frontend) and Render (backend).
+- Demo Link - https://quirexhousing.netlify.app/
 
 ## 🚀 Features
 - User Features
